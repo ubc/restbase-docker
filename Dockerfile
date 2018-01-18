@@ -2,7 +2,7 @@
 # ref: https://github.com/mapbox/node-sqlite3/blob/master/appveyor.yml
 FROM node:7-alpine
 
-ENV RESTBASE_VERSION v0.16.9
+ENV RESTBASE_VERSION v0.17.0
 
 EXPOSE 7231
 
